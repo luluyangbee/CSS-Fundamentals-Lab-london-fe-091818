@@ -38,6 +38,6 @@ div> p, h3 {
   display: block;
   width: 100%;
   float: left;
-  color: red;
+  background-color: red;
   
 }
