@@ -32,7 +32,7 @@ section p {
 
 details {
   position: relative;
-  float: center;
+  float: none;
   display: block;
   bottom:25%;
   left:0;
