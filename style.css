@@ -9,6 +9,7 @@ body {
 }
 
 img {
+  position: fixed;
     display: block;
     margin-left: auto;
     margin-right: auto;
