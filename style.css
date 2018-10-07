@@ -15,7 +15,7 @@ img {
     width: 100%;
 }
 
-a href {
+a:-webkit-any-link  {
   padding: 10px 10px;
   background: #DCDCDC;
 }
