@@ -35,7 +35,7 @@ section p {
 }
 
 div {
-  position: fixed;
+  position: relative;
   display: block;
   bottom:25%;
   left:0;
