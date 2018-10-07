@@ -30,7 +30,7 @@ section p {
   text-align: center;
 }
 
-div {
+details {
   float: left;
   position: relative;
   display: block;
