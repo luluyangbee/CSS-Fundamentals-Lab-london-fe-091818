@@ -19,3 +19,7 @@ a:-webkit-any-link  {
   padding: 10px 10px;
   background: #DCDCDC;
 }
+
+figcaption {
+  font: ;
+}
